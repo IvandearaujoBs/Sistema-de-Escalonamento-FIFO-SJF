@@ -1,3 +1,4 @@
+import sys
 import tkinter as tk
 from tkinter import messagebox
 from copy import deepcopy
@@ -101,3 +102,4 @@ resultado_text = tk.Text(janela, height=20, width=70)
 resultado_text.pack(pady=10)
 
 janela.mainloop()
+digite enter para fechar ()
